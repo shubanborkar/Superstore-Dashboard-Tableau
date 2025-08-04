@@ -4,7 +4,7 @@
 
 An interactive Tableau dashboard analyzing key metrics such as total orders, sales, customer trends, regional profit, and product performance using real-world e‑commerce data.
 
-🔗 **Live Dashboard**: [View on Tableau Public](public.tableau.com/app/profile/shuban.borkar/viz/SuperStoreDashboard_17543406711030/Dashboard1#1)
+🔗 **Live Dashboard**: [View on Tableau Public](https://public.tableau.com/app/profile/shuban.borkar/viz/SuperStoreDashboard_17543406711030/Dashboard1#1)
 
 ---
 
