@@ -23,7 +23,7 @@ Original raw data sourced from:
 
 ## 🧼 Data Cleaning Process
 
-Performed using Microsoft Excel:
+Performed using Google Colab:
 - Removed duplicates, nulls, and erroneous values (e.g., negative profits)
 - Normalized column names, date formats, and merged based on common fields
 - Aligned monthly targets with transactional data for accurate comparison
@@ -48,7 +48,7 @@ The design is inspired by [Priya Padham’s Superstore Dashboard](https://public
 ## ⚒ Tools Used
 
 - Tableau Public
-- Microsoft Excel (for preprocessing)
+- Python on Google Colab (for preprocessing)
 - Data from Kaggle
 
 ---
@@ -78,3 +78,12 @@ The design is inspired by [Priya Padham’s Superstore Dashboard](https://public
 ---
 
 📌 *Feel free to fork, explore, or suggest improvements via pull requests or issues!*
+
+---
+
+## Contact
+
+**Shuban Borkar**  
+Email: [shubanborkar@gmail.com](mailto:shubanborkar@gmail.com)  
+LinkedIn: [shuban-borkar](https://www.linkedin.com/in/shuban-borkar)  
+GitHub: [shubanborkar](https://github.com/shubanborkar)
